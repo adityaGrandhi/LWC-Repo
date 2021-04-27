@@ -1,4 +1,4 @@
 <aura:component>
-<p>test cmp 1234569899881234</p>
+<p>test cmp 12345698998812341234</p>
 </aura:component>	
-git remote add origin https://github.com/adityaGrandhi/Test-LWC-Repo.git
+git remote add origin https://github.com/adityaGrandhi/Test-LWC-Repo.gitgit
