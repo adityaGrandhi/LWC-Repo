@@ -1,3 +1,4 @@
 <aura:component>
 <p>test cmp 123456989988</p>
 </aura:component>	
+git remote add origin https://github.com/adityaGrandhi/Test-LWC-Repo.git
